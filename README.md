@@ -10,4 +10,4 @@
 
 ### Proposal 3
  * V-2 Rockets: https://www.wrsonline.co.uk/big-ben-rocket-strikes/1944-v2-rocket-attacks-map/
- * "A SCREAMING COMES ACROSS THE SKY." In the book *Gravity's Rainbow* by Thomas Pynchon, one of the characters, Roger Mexico, theorizes that the V-2 attacks on London follow a Poisson distribution. I wanna see if he was as full of sh$\*t as General Pudding. (Fun Fact: *Gravity's Rainbow* was rejected from the Pulitzer Prize voting committee after being unanimously recommended by the Pulitzer Jury because it features an extensive scene about Coprophilia.)
+ * "A SCREAMING COMES ACROSS THE SKY." In the book *Gravity's Rainbow* by Thomas Pynchon, one of the characters, Roger Mexico, theorizes that the V-2 attacks on London follow a Poisson distribution. I wanna see if he was as full of sh\*t as General Pudding. (Fun Fact: *Gravity's Rainbow* was rejected from the Pulitzer Prize voting committee after being unanimously recommended by the Pulitzer Jury because it features an extensive scene about Coprophilia.) There are ~1200 bombings on the map
